@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5+/N9lHzkaSRn9kUtHc1go6ywG8ZkRdLDAAtRdrdKlWgVk9jdcqzEJ+5oRIexHpDTTlReJM/RylOXbmC/nOyhw==",
+  "dgSpecHash": "xvCkKmcLH9ov6Ol9/JKkP2UYmjYRiadO9iDW5Gs6/9TZ7d3zmB8w+BzjUwLiDkXeKYZwc5KdfAYZ4y1ur8M8+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\carlo\\source\\repos\\MMO.API\\MMO.API.Infrastructure\\MMO.API.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\carlo\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
-    "C:\\Users\\carlo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",

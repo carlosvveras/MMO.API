@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.API", "MMO.API\MMO.API.csproj", "{777726E1-1AA6-4A5E-B891-FFE6ECB1ACA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMO.API", "MMO.API\MMO.API.csproj", "{777726E1-1AA6-4A5E-B891-FFE6ECB1ACA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.API.Core", "MMO.API.Core\MMO.API.Core.csproj", "{5A505A0D-5920-40FD-A211-A2FCCCE38A21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMO.API.Core", "MMO.API.Core\MMO.API.Core.csproj", "{5A505A0D-5920-40FD-A211-A2FCCCE38A21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.API.Application", "MMO.API.Application\MMO.API.Application.csproj", "{48B15076-A4DE-4B6B-8226-4652CAFBCDAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMO.API.Application", "MMO.API.Application\MMO.API.Application.csproj", "{48B15076-A4DE-4B6B-8226-4652CAFBCDAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.API.Infrastructure", "MMO.API.Infrastructure\MMO.API.Infrastructure.csproj", "{764FA805-4000-4EDA-AE8A-D8DE64820BF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMO.API.Infrastructure", "MMO.API.Infrastructure\MMO.API.Infrastructure.csproj", "{764FA805-4000-4EDA-AE8A-D8DE64820BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO.API.Infrastructure.IoC", "MMO.API.Infrastructure.IoC\MMO.API.Infrastructure.IoC.csproj", "{EE28919B-46FD-4D44-85D4-51B1D919A600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{764FA805-4000-4EDA-AE8A-D8DE64820BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{764FA805-4000-4EDA-AE8A-D8DE64820BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{764FA805-4000-4EDA-AE8A-D8DE64820BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE28919B-46FD-4D44-85D4-51B1D919A600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE28919B-46FD-4D44-85D4-51B1D919A600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE28919B-46FD-4D44-85D4-51B1D919A600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE28919B-46FD-4D44-85D4-51B1D919A600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

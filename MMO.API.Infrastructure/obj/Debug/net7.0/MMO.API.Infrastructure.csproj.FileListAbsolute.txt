@@ -3,3 +3,17 @@ C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.
 C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.AssemblyInfo.cs
 C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Infrastructure.deps.json
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Infrastructure.runtimeconfig.json
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Infrastructure.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Infrastructure.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Application.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Core.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Application.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\bin\Debug\net7.0\MMO.API.Core.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.csproj.CopyComplete
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\refint\MMO.API.Infrastructure.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.genruntimeconfig.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\ref\MMO.API.Infrastructure.dll
