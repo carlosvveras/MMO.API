@@ -1,0 +1,5 @@
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.AssemblyInfo.cs
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Infrastructure\obj\Debug\net7.0\MMO.API.Infrastructure.csproj.CoreCompileInputs.cache

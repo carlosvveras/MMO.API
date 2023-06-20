@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.AssemblyInfo.cs
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\bin\Debug\net7.0\MMO.API.Application.deps.json
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\bin\Debug\net7.0\MMO.API.Application.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\bin\Debug\net7.0\MMO.API.Application.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\bin\Debug\net7.0\MMO.API.Core.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\bin\Debug\net7.0\MMO.API.Core.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.csproj.CopyComplete
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\refint\MMO.API.Application.dll
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\MMO.API.Application.pdb
+C:\Users\carlo\source\repos\MMO.API\MMO.API.Application\obj\Debug\net7.0\ref\MMO.API.Application.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MMO.API.props" />
+</Project>
