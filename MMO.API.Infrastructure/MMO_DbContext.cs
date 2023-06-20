@@ -27,5 +27,20 @@ namespace MMO.API.Infrastructure
 
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("Shopbridge_Context"));
         }
+
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Client>(c =>
+        //    {
+        //        c.HasKey(x => x.Id);
+        //        c.Property(x => x.Name).IsRequired();
+        //        c.Property(x => x.ContactName).IsRequired();
+        //        c.Property(x => x.Address).IsRequired();
+        //        c.Property(x => x.City).IsRequired();
+        //        c.Property(x => x.StateProvince).IsRequired();
+        //        c.Property(x => x.Country).IsRequired();
+        //        c.Property(x => x.Name).IsRequired();
+        //    });
+        //}
     }
 }

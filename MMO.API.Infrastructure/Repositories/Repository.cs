@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MMO.API.Core.Entities;
 using MMO.API.Core.Repositories;
 using System;
 using System.Collections.Generic;
@@ -51,12 +52,26 @@ namespace MMO.API.Infrastructure.Repositories
 
         }
 
-        public async Task UpdateAsync(T entity)
+        public async Task<bool> UpdateAsync(int id, T entity)
         {
-            DbSet<T> dbSet = this.dbcontext.Set<T>();
-            dbSet.Attach(entity);
-            this.dbcontext.Entry(entity).State = EntityState.Modified;
-            await dbcontext.SaveChangesAsync();
+            T entityToUpdate = GetById(id).Result;
+            if (entityToUpdate != null)
+            {
+                DbSet<T> dbSet = this.dbcontext.Set<T>();
+                dbSet.Attach(entity);
+                this.dbcontext.Entry(entity).State = EntityState.Modified;
+                await dbcontext.SaveChangesAsync();
+                return true;
+            }
+            else
+            { 
+                return false; 
+            }
+
+            //DbSet<T> dbSet = this.dbcontext.Set<T>();
+            //dbSet.Attach(entity);
+            //this.dbcontext.Entry(entity).State = EntityState.Modified;
+            //await dbcontext.SaveChangesAsync();
 
         }
 

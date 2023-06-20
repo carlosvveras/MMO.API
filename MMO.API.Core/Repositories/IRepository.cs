@@ -13,7 +13,7 @@ namespace MMO.API.Core.Repositories
         Task<T> GetById(int id);
         Task<T> AddAsync(T entity);
         Task DeleteAsync(int id);
-        Task UpdateAsync(T entity);
+        Task<bool> UpdateAsync(int id, T entity);
     }
 }
 

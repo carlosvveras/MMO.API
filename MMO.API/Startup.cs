@@ -59,7 +59,7 @@ namespace MMO.API
 
             services.AddDbContext<MMO_DbContext>(options =>
             {
-                options.UseSqlServer(Configuration.GetConnectionString("Shopbridge_Context"));
+                options.UseSqlServer(Configuration.GetConnectionString("MMO_DbContext"));
                 //options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
             });
 

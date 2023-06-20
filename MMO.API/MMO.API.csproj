@@ -17,10 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MMO.API.Application\MMO.API.Application.csproj" />
     <ProjectReference Include="..\MMO.API.Infrastructure.IoC\MMO.API.Infrastructure.IoC.csproj" />
   </ItemGroup>

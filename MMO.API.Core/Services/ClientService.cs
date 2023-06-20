@@ -71,18 +71,9 @@ namespace MMO.API.Core.Services
             return client;
         }
 
-        public async Task UpdateclientAsync(int clientId, Client client)
+        public async Task<bool> UpdateclientAsync(int clientId, Client client)
         {
-            Client entityToUpdate = repository.GetById(clientId).Result;
-            if (entityToUpdate != null)
-            {
-                entityToUpdate.Name = client.Name;
-                entityToUpdate.Description = client.Description;
-                //entityToUpdate.Buildings = client.Buildings;
-
-                await repository.UpdateAsync(entityToUpdate);
-            }
-
+            return await repository.UpdateAsync(clientId, client);
         }
 
         public async Task DeleteclientAsync(int clientId)
