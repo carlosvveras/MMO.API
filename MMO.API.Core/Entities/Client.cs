@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace MMO.API.Core.Entities
 {
+    [Table("Client")]
     public class Client
     {
         [Key]

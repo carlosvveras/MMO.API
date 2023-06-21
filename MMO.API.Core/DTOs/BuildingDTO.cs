@@ -12,6 +12,6 @@ namespace MMO.API.Core.DTOs
         public string Name { get; set; }
         public string Address { get; set; }
         public int ClientId { get; set; }
-        //public IEnumerable<Amenity> Amenities { get; set; }
+        public virtual IEnumerable<Amenity> Amenities { get; set; }
     }
 }

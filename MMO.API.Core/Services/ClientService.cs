@@ -65,7 +65,7 @@ namespace MMO.API.Core.Services
             return (client != null ? true : false);
         }
 
-        public async Task<Client> AddclientAsync(Client client)
+        public async Task<Client> AddClientAsync(Client client)
         {
             await repository.AddAsync(client);
             return client;
