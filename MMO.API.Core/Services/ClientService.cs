@@ -71,12 +71,12 @@ namespace MMO.API.Core.Services
             return client;
         }
 
-        public async Task<bool> UpdateclientAsync(int clientId, Client client)
+        public async Task<bool> UpdateClientAsync(int clientId, Client client)
         {
             return await repository.UpdateAsync(clientId, client);
         }
 
-        public async Task DeleteclientAsync(int clientId)
+        public async Task DeleteClientAsync(int clientId)
         {
             await repository.DeleteAsync(clientId);
         }
